@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "107978716252",
+    "firebase_url": "https://gamaldox-15260.firebaseio.com",
+    "project_id": "gamaldox-15260",
+    "storage_bucket": "gamaldox-15260.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107978716252:android:c974b81e78042d307fa299",
+        "android_client_info": {
+          "package_name": "gamal.myappnew.instagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107978716252-v8plrem8s8jubjgeh2lp0dragf7l0hin.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "gamal.myappnew.instagram",
+            "certificate_hash": "ead69d8a96fee1de15e913a3d82bda01ceefc202"
+          }
+        },
+        {
+          "client_id": "107978716252-4jp27ptg4fabn0eknn56v3iuki8uthrl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDABd6Z9gTqKxLsCcMOE-on-s_R7jA1r5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107978716252-4jp27ptg4fabn0eknn56v3iuki8uthrl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
